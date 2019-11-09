@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSPersistentGeneratorLibrary", "CSPersistentGeneratorLibrary\CSPersistentGeneratorLibrary.csproj", "{AA2BCF30-68F1-423A-A58A-9DE5ADD6F99B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA2BCF30-68F1-423A-A58A-9DE5ADD6F99B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA2BCF30-68F1-423A-A58A-9DE5ADD6F99B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA2BCF30-68F1-423A-A58A-9DE5ADD6F99B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA2BCF30-68F1-423A-A58A-9DE5ADD6F99B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E5ED705-0B25-4E9F-9420-7172F5F1477F}
+	EndGlobalSection
+EndGlobal
