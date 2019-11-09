@@ -13,7 +13,7 @@ namespace CSPersistentGeneratorLibrary
         public static void MainMethod(string _inpath, string _outpath, string _defaultNamespace, string templatesFolder)
         {
 
-            //Date: 2019. 11. 2. 16:48
+            //Date: 2019. 11. 09. 18:20
             if (!Directory.Exists(_outpath + "PersistentMethods"))
                 Directory.CreateDirectory(_outpath + "PersistentMethods");
 
